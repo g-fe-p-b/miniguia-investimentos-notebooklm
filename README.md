@@ -6,11 +6,19 @@ Também vale ressaltar que boa parte do tema é abordado como um estudo crítico
 
 Principais Fontes (disponibilizadas aqui): 
 "O Investidor Inteligente", Benjamin Graham, audiobook: https://www.youtube.com/watch?v=fMo_xntieUo 
+
+Coleção de Livros CVM: https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm
+
 "Mercado de Valores Mobiliários Brasileiro", organização CVM; 
+
 "Análise de Investimento", Organização APIMEC e CVM; 
+
 "Construindo as Bases da Regulação Financeira Moderna no Brasil", Organização CVM; 
+
 "Mercado de Derivativos no Brasil: Conceitos, Produtos e Operações", Organização CVM;
+
 "Planejamento Financeiro Pessoal", Organização CVM.
+
 
 ## Glossário de Termos-Chave
 
